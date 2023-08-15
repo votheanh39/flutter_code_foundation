@@ -30,6 +30,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
 flavorizr:
   flavors:
     dev:
@@ -44,6 +45,6 @@ flavorizr:
       app:
         name: "Quick Care"
       android:
-        applicationId: "au.quick_care.terem.prod"
+        applicationId: "au.quick_care.terem"
       ios:
-        bundleId: "au.quick_care.terem.prod"
+        bundleId: "au.quick_care.terem"
